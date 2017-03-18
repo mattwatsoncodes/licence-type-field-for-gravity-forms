@@ -1,4 +1,4 @@
-# License Type Field for Gravity Forms
+# License Type Field for Gravity Forms (Beta)
 
 License Type field designed to work with Gravity Forms
 
